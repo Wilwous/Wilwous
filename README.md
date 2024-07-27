@@ -11,6 +11,6 @@
 - ⚡ Оптимизация производительности приложений
 
 ## 🌐 Социальные сети:
-- ![Telegram](https://img.shields.io/badge/Telegram-%40Wilwous-blue?logo=telegram&style=for-the-badge) [@Wilwous](https://t.me/Wilwous)
+![Telegram](https://img.shields.io/badge/Telegram-%40Wilwous-blue?logo=telegram&style=for-the-badge)
 
 Я всегда открыт для новых интересных проектов и возможностей.
