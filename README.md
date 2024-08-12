@@ -18,4 +18,5 @@
 В свободное время я люблю слушать металл музыку, путешествовать, интересуюсь кинематографом и принимаю участие в съемках короткометражных фильмов. Также мне нравится проводить время с близкими людьми.
 
 ## 🌐 Социальные сети:
-![Telegram](https://img.shields.io/badge/Telegram-%40Wilwous-blue?logo=telegram&style=for-the-badge)
+[![Telegram](https://img.shields.io/badge/Telegram-%40Wilwous-blue?logo=telegram&style=for-the-badge)](https://t.me/wilwous)
+
