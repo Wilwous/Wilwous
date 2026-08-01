@@ -26,7 +26,7 @@ CTO & Co-founder [SOPAX](https://sopax.ru)
 
 ## 🚀 Проекты
 
-### 📱 [Formula Marketplace](ВСТАВИТЬ_ССЫЛКУ_НА_ПРИЛОЖЕНИЕ)
+### 📱 [Formula Marketplace](https://apps.apple.com/tr/app/formula-marketplace/id6746058953)
 
 iOS-приложение образовательной платформы: расписание, эфиры, записи занятий, прогресс обучения и уведомления.
 
