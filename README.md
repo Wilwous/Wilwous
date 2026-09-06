@@ -4,13 +4,13 @@
 
 ### iOS Developer · Swift · UIKit · SwiftUI
 
-CTO & Co-founder [SOPAX](https://sopax.ru)
+CTO & Co-founder [SOPAX](https://sopax.wilwous.ru)
 
 Разрабатываю iOS-приложения и цифровые продукты — от архитектуры и интерфейса до релиза и поддержки.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@wilwous-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/wilwous)
 [![Email](https://img.shields.io/badge/Email-wilwous%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wilwous@gmail.com)
-[![SOPAX](https://img.shields.io/badge/SOPAX-sopax.ru-111111?style=flat-square&logo=safari&logoColor=white)](https://sopax.ru)
+[![SOPAX](https://img.shields.io/badge/SOPAX-sopax.ru-111111?style=flat-square&logo=safari&logoColor=white)](https://sopax.wilwous.ru)
 
 </div>
 
@@ -38,7 +38,7 @@ iOS-приложение образовательной платформы: ра
 
 `Swift` · `macOS`
 
-### 🌐 [SOPAX](https://sopax.ru)
+### 🌐 [SOPAX](https://sopax.wilwous.ru)
 
 Цифровое агентство по разработке приложений, сайтов, платформ и Telegram-ботов. Моя роль — CTO, архитектура, разработка и инфраструктура.
 
@@ -68,7 +68,7 @@ iOS-разработка · доработка приложений · архи�
 
 ## 📫 Контакты
 
-[Telegram](https://t.me/wilwous) · [Email](mailto:wilwous@gmail.com) · [GitHub](https://github.com/Wilwous) · [SOPAX](https://sopax.ru) · [VPN Bot](https://t.me/wilwous_vpn_bot)
+[Telegram](https://t.me/wilwous) · [Email](mailto:wilwous@gmail.com) · [GitHub](https://github.com/Wilwous) · [SOPAX](https://sopax.wilwous.ru) · [VPN Bot](https://t.me/wilwous_vpn_bot)
 
 ---
 
