@@ -48,6 +48,12 @@ iOS-приложение образовательной платформы: ра
 
 Для добавления уже имеющейся подписки в Happ нужна ссылка самой подписки, а не адрес личного кабинета. [Бесплатная инструкция Wilwous NET: импорт из буфера или QR и проверки при ошибке](https://net.wilwous.ru/guides/happ-subscription?utm_source=community&utm_medium=community&utm_campaign=happ-github-profile-import&utm_content=import). Инструкция подготовлена нашим проектом; доступ к сервису оплачивается отдельно.
 
+#### Wilwous NET — официальная документация
+
+Справочные материалы проекта: [импорт подписки в Happ](https://net.wilwous.ru/guides/happ-subscription?utm_source=community&utm_medium=community&utm_campaign=happ-github-profile-import&utm_content=import), [Happ подключён, но нет сети — диагностика](https://net.wilwous.ru/guides/happ-connected-no-internet?utm_source=community&utm_medium=community&utm_campaign=happ-github-profile-import&utm_content=help) и [индекс документации с FAQ по безопасности](docs/README.md).
+
+Материалы описывают клиентские настройки и диагностику. Happ — отдельное приложение. Личную ссылку, QR и конфигурацию нельзя публиковать в Issues или обсуждениях.
+
 `Swift` · `Telegram Bot API` · `Xray` · `WebSocket` · `ЮKassa` · `Docker`
 
 ---
