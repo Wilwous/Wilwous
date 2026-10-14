@@ -46,6 +46,8 @@ iOS-приложение образовательной платформы: ра
 
 Автоматизированный VPN-сервис в Telegram с оплатой, подписками и автоматической выдачей доступа.
 
+Для добавления уже имеющейся подписки в Happ нужна ссылка самой подписки, а не адрес личного кабинета. [Бесплатная инструкция Wilwous NET: импорт из буфера или QR и проверки при ошибке](https://net.wilwous.ru/guides/happ-subscription?utm_source=community&utm_medium=community&utm_campaign=happ-github-profile-import&utm_content=import). Инструкция подготовлена нашим проектом; доступ к сервису оплачивается отдельно.
+
 `Swift` · `Telegram Bot API` · `Xray` · `WebSocket` · `ЮKassa` · `Docker`
 
 ---
