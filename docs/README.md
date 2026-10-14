@@ -6,6 +6,7 @@
 
 - [Как добавить уже имеющуюся подписку в Happ](https://net.wilwous.ru/guides/happ-subscription?utm_source=community&utm_medium=community&utm_campaign=happ-github-profile-import&utm_content=import): ссылка подписки, буфер обмена и QR.
 - [Happ подключён, но нет интернета: что проверить](https://net.wilwous.ru/guides/happ-connected-no-internet?utm_source=community&utm_medium=community&utm_campaign=happ-github-profile-import&utm_content=help): сравнение сетей, состояния подписки, приложений и версий клиента.
+- [Happ на Windows: служба или TUN не запускается](https://net.wilwous.ru/guides/happ-windows-service-not-starting?utm_source=community&utm_medium=community&utm_campaign=happ-github-profile-import&utm_content=help): отдельная диагностика запуска локального клиента.
 
 Happ — самостоятельный клиент. Эти материалы Wilwous NET не являются документацией от разработчиков Happ. Источники разработчиков приведены в каждой инструкции.
 
@@ -21,4 +22,4 @@ Happ — самостоятельный клиент. Эти материалы 
 
 **Где описана настройка PlayStation / Smart DNS?** Эти две инструкции её не подтверждают. Отдельный материал появится только после проверки конкретного сценария.
 
-Дата проверки: 14 октября 2026. Публичные Issues не заменяют личную поддержку и не предназначены для секретов. Исходники production и приватные настройки здесь не публикуются.
+Дата проверки: 15 октября 2026. Публичные Issues не заменяют личную поддержку и не предназначены для секретов. Исходники production и приватные настройки здесь не публикуются.
