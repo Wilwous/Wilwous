@@ -10,6 +10,12 @@
 
 Happ — самостоятельный клиент. Эти материалы Wilwous NET не являются документацией от разработчиков Happ. Источники разработчиков приведены в каждой инструкции.
 
+## iPhone / iPad и российский App Store
+
+На 16 октября 2026 года глобальный Happ доступен в App Store US и Германии; российская версия Happ Lite недоступна. Для российского магазина Wilwous NET уже поддерживает **INCY** (iOS/iPadOS15+). Менять регион Apple ID для NET не требуется.
+
+[Проверенные ссылки установки и возврат к настройке](https://net.wilwous.ru/guides/happ-subscription?utm_source=community&utm_medium=community&utm_campaign=happ-github-profile-import&utm_content=import#ios) находятся в существующей инструкции. После установки откройте свою Personal Access и используйте INCY в быстром подключении либо импорт существующей подписки вручную. Новая покупка для смены клиента не нужна.
+
 ## Happ на Mac
 
 - [Happ Desktop снова просит установить VPN helper](happ-macos-helper.md): как отделить запрос прав, уведомление provider, пустой список и сбой службы; без удаления профилей и команд ремонта.
